@@ -4,6 +4,10 @@
 using namespace std;
 bool paused = false;
 
+// no deference from a python script, this is unusable garbage.
+//it would be easy to code external bhop and just have fun with that but im to afraid that itll ban my acc someday so
+//dont use this kinda shit go for external bhop just like zuhn does & have fun
+
 void huy() 
 {
     while(1)
